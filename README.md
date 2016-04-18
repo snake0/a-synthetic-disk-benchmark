@@ -1,1 +1,0 @@
-# a-synthetic-disk-benchmark
